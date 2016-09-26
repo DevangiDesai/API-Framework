@@ -1,0 +1,12 @@
+/*
+  Localizable.strings
+  YokoAPI
+
+  Created by Devangi 04/07/14.
+  Copyright (c) 2013 Devangi. All rights reserved.
+*/
+
+"FB_SignIn" = "FB Sign In";
+"Twitter_SignIn" = "Twitter Sign In";
+"EnterEmail" = "Enter Your Email";
+"SignIn" = "Sign In";

@@ -1,0 +1,98 @@
+//
+//  Enum.h
+//  AFNetworking iOS Example
+//
+//  Created by Devangi on 21/11/12.
+//  Copyright (c) 2012 Devangi. All rights reserved.
+//
+
+/**
+ * @brief global enums
+ */
+typedef enum   {
+    EJSON = 0,
+    EXML,
+    ERSSXML
+}
+EFeedType;
+
+// TO-DO, theb following is added temporarily to make YoKoMobile runs
+typedef enum {
+    ENONE = -1,
+    EEVERYTHING,
+    EFOLLOWING,
+    ERECENT,
+    ESTARTEVERYTHING,
+    ESTARTRESTAURANT,
+    ESTARTRECIPE,
+    EEVERYTHINGRECENT,
+    ERESTAURANTGRECENT,
+    ERECIPERECENT,
+    EEVERYHTINGFOLLOWING,
+    ERESTAURANTFOLLOWING,
+    ERECIPEFOLLOWING,
+    EEVERYTHINGMAP,
+    ERESTAURANTMAP,
+    ERECIPEMAP,
+    ECOLLECTION,
+    EUSERCOLLECTION,
+    EADDCOLLECTION,
+    EDIDIT,
+    ELOVE,
+    EIMAGEUPLOAD,
+    ECOMMENTADD,
+    ECOMMENTLIST,
+    EUSERPROFILE,
+    EUSERFOLLOW,
+    EUSERUNFOLLOW,
+    ELOGIN,
+    EFACEBOOKUSER,
+    ETWITTERUSER,
+    ECOLLECTIONDETAIL,
+    EUSERFOLLOWERS,
+    EUSERFOLLOWINGS,
+    ENOTIFICATIONCOUNT,
+    ENOTIFICATIONUNREAD,
+    ENOTIFICATIONDETAIL
+}
+EDiscoverAction;
+typedef enum {
+    EDISCOVER = 0,
+    EMAP,
+    EUSERCOLLECTIONS,
+    EADDCOLLECTIONS,
+    ELOVES,
+    EIMAGEUPLOADS,
+    EADDCOMMENTS,
+    ERESTAURANT,
+    ERECIPE,
+    ECOMMENTS,
+    EPROFILE,
+    EFOLLOW,
+    EUNFOLLOW,
+    EACTIVITY,
+    EFACEBOOKPROFILE,
+    ETWITTERPROFILE,
+    EACTIVITYDETAIL,
+    EFOLLOWINGS,
+    EFOLLOWERS,
+    ENOTIFICATION,
+    ENOTIFICATIONALL
+}
+EParserName;
+
+typedef enum {
+    EMENUNONE = -1,
+    EMENUEVERYTHING,
+    EMENURESTAURANT,
+    EMENURECIPE
+}
+EMenuSelectedSegment;
+
+typedef enum {
+    ENONESEGMENT = -1,
+    ERECENTSEGMENT,
+    EFOLLOWINGSEGMENT,
+    EMAPSEGMENT
+}
+ENavSelectedSegment;

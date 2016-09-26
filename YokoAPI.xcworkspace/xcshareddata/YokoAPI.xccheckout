@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>DAC4B529-41AB-4D2E-B153-58097146427D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>YokoAPI</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>2AEBEC208C525AB6C2D1A109EC8F2705D9A3850E</key>
+		<string>ssh://github.com/glammedia/Yoko-Mobile.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>YokoAPI/YokoAPI.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>2AEBEC208C525AB6C2D1A109EC8F2705D9A3850E</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/glammedia/Yoko-Mobile.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>2AEBEC208C525AB6C2D1A109EC8F2705D9A3850E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>2AEBEC208C525AB6C2D1A109EC8F2705D9A3850E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Yoko-Mobile</string>
+		</dict>
+	</array>
+</dict>
+</plist>
